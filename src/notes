@@ -1,0 +1,5 @@
+work flow
+
+entry point - main.ts -->app component (app)
+                1.root component - app.component.ts
+                2.root module - app.module.ts
